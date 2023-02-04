@@ -520,11 +520,13 @@ table {
 }
 
 .places__card-pic_size_lg {
+	 height: 354px;
   -o-object-fit: cover;
      object-fit: cover;
 }
 
 .places__card-pic_size_sm {
+         height: 283px;	
   -o-object-fit: cover;
      object-fit: cover;
 }
